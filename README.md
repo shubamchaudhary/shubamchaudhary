@@ -11,10 +11,11 @@
   <a href="https://codeforces.com/profile/sam17"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"></a>
   <a href="https://www.codechef.com/users/shubam17sam"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"></a>
   <a href="mailto:beshubam@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <!-- RESUME BUTTON GOES HERE once resume.pdf (phone number removed) is committed:
-  <a href="https://github.com/shubamchaudhary/shubamchaudhary/raw/main/resume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-2F855A?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume"></a>
-  -->
 </p>
+
+<div align="center">
+  <img width="600" src="https://leetcard.jacoblin.cool/SHUBAMCHAUDHARY?theme=dark&font=baloo&ext=heatmap" alt="LeetCode">
+</div>
 
 ---
 
@@ -100,15 +101,3 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### Problem solving
-
-1,000+ DSA problems across [LeetCode](https://leetcode.com/u/SHUBAMCHAUDHARY/), [CodeChef](https://www.codechef.com/users/shubam17sam) and [Codeforces](https://codeforces.com/profile/sam17).
-
-<div align="center">
-  <img height="170" src="https://leetcard.jacoblin.cool/SHUBAMCHAUDHARY?theme=dark&font=baloo&ext=heatmap" alt="LeetCode stats">
-</div>
-
-<p align="center"><i>Open to backend / backend + GenAI roles.</i></p>
