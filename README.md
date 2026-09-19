@@ -33,8 +33,6 @@ Postgres-Testcontainers suites gating every merge; batch-regression pipelines ac
 **Frontend** &nbsp;·&nbsp; `React` `Vite` `Tailwind` `Firebase`<br>
 CodeNITW, end to end.
 
-**Learning now** &nbsp;·&nbsp; JVM internals, concurrency, agentic RAG — evals, guardrails, cost.
-
 ---
 
 ### Featured
