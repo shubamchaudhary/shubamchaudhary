@@ -21,15 +21,19 @@
 
 ### What I've worked on
 
-**Backend — 2.5 years at Blue Yonder.** Java 17 and Spring Boot on a multi-tenant retail platform: allocation ranking that runs in 100% of customer allocations, feature-flag-controlled Snowflake connection routing across 1,000+ tenants, a zero-downtime dual-APIM gateway migration, and sync/async fallback layers. Spring Data JPA, Hibernate, PostgreSQL, Snowflake, Redis, Kafka, Azure, Docker, Kubernetes, OAuth 2.0.
+**Backend** &nbsp;·&nbsp; `Java 17` `Spring Boot` `JPA/Hibernate` `PostgreSQL` `Snowflake` `Redis` `Kafka` `Azure` `Kubernetes`<br>
+Multi-tenant retail platform at Blue Yonder — allocation ranking, tenant-sharded Snowflake routing across 1,000+ tenants, a zero-downtime dual-gateway migration, sync/async fallback layers.
 
-**GenAI — shipped to production, not a weekend demo.** A LangGraph inventory-operations agent that lets planners read and update parameters conversationally: hierarchy-aware Postgres querying, Redis-staged writes with scenario-scoped Base+Overlay persistence, and human-in-the-loop approval through LangGraph interrupts. Turned multi-day ticket cycles into minutes.
+**GenAI** &nbsp;·&nbsp; `LangGraph` `LangChain` `RAG` `pgvector`<br>
+Production inventory-ops agent — conversational Postgres reads/writes, Redis-staged overlays, human-in-the-loop via graph interrupts.
 
-**Testing and CI.** JUnit, Mockito, PostgreSQL-Testcontainers regression suites gating every PR merge, GitHub Actions batch-regression frameworks across 7 repositories.
+**Testing & CI** &nbsp;·&nbsp; `JUnit` `Mockito` `Testcontainers` `GitHub Actions`<br>
+Postgres-Testcontainers suites gating every merge; batch-regression pipelines across 7 repos.
 
-**Frontend, when the project needs one.** React, Vite, Tailwind, Firebase (Auth, Firestore, Cloud Functions) — CodeNITW is mine end to end, UI included.
+**Frontend** &nbsp;·&nbsp; `React` `Vite` `Tailwind` `Firebase`<br>
+CodeNITW, end to end.
 
-**Still learning, deliberately.** Right now: JVM internals, concurrency, Spring internals, and agentic RAG — evaluation (RAGAS, LLM-as-judge), guardrails, cost and observability. Picking up an unfamiliar stack is the part of this job I actually enjoy.
+**Learning now** &nbsp;·&nbsp; JVM internals, concurrency, agentic RAG — evals, guardrails, cost.
 
 ---
 
